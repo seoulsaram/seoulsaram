@@ -1,6 +1,5 @@
 
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Fun%20wave&fontSize=90" />
 <h1 align="center">Hi! I'm Seoulsaram 👽</h1>
 <br>
 <h3 align="center">🛠Techs that I can handle🛠</h3>
@@ -13,9 +12,13 @@
 </p>
 <br>
 <h4 align="center">🌱 I’m currently learning ...<h4/>
-  <p align="center"><img src="https://img.shields.io/badge/-TypeScript-red"/> </p>
+  <p align="center"><img src="https://img.shields.io/badge/-TypeScript-orange"/> </p>
+  <br>
+  <p align="center">📞Contact Me</p>
+  <p align="center">
+    <a href="mailto:kasts91@naver.com"><img src="https://img.shields.io/badge/ContactMe-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=kasts91@naver.com"/></a>
 
-
+  </p>
 <br>
 
 <!--
