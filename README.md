@@ -4,7 +4,10 @@
 <img src="https://img.shields.io/badge/-Java-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Oracle-green"/>&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-green"/>&nbsp;<img src="https://img.shields.io/badge/-Git-red"/>
+<img src="https://img.shields.io/badge/-MongoDB-green"/>&nbsp;<img src="https://img.shields.io/badge/-Git-black"/>
+
+- 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/-TypeScript-black"/>
 
 
 <!--
