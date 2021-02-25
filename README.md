@@ -1,14 +1,22 @@
 
-## Hi! I'm Seoulsaram 🐠
+<br>
+<br>
+<h1 align="center">Hi! I'm Seoulsaram 🐠</h1>
+<p align="center">
 <img src="https://img.shields.io/badge/-Reactjs-red"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript(ES6)-red"/>&nbsp;
 <img src="https://img.shields.io/badge/-Java-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Oracle-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-green"/>&nbsp;<img src="https://img.shields.io/badge/-Git-black"/>
+</p>
+<br>
+<h4 align="center">🌱 I’m currently learning ...<h4/>
+  <p align="center"><img src="https://img.shields.io/badge/-TypeScript-red"/> </p>
 
-- 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/-TypeScript-black"/>
 
+<br>
+<br>
+<br>
 
 <!--
 **seoulsaram/seoulsaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
