@@ -1,7 +1,9 @@
 
+
 <br>
+<h1 align="center">Hi! I'm Seoulsaram 👽</h1>
 <br>
-<h1 align="center">Hi! I'm Seoulsaram 🐠</h1>
+<h3 align="center">🛠Techs that I can handle🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Reactjs-red"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript(ES6)-red"/>&nbsp;
 <img src="https://img.shields.io/badge/-Java-green"/>&nbsp;
@@ -14,8 +16,6 @@
   <p align="center"><img src="https://img.shields.io/badge/-TypeScript-red"/> </p>
 
 
-<br>
-<br>
 <br>
 
 <!--
