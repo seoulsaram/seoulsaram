@@ -14,6 +14,19 @@
 <h4 align="center">🌱 I’m currently learning ...<h4/>
   <p align="center"><img src="https://img.shields.io/badge/-TypeScript-orange"/> </p>
   <br>
+  
+  
+  ```javascript
+   let seoulsaram = {
+        name : 'seoulsaram',
+        state : '🌟happy🌟',
+        address : 'https://seoulsaram.github.io/portfolio/'
+    }
+  ```
+  
+
+  <a align="center" href="https://seoulsaram.github.io/portfolio/">go to seoulsaram site</a>
+  
   <p align="center">📞Contact Me</p>
   <p align="center">
     <a href="mailto:kasts91@naver.com"><img src="https://img.shields.io/badge/ContactMe-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=kasts91@naver.com"/></a>
