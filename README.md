@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/-Java-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp;
 <img src="https://img.shields.io/badge/-Oracle-green"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Redux-pink"/>&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-green"/>&nbsp;<img src="https://img.shields.io/badge/-Git-black"/>
 </p>
 <br>
