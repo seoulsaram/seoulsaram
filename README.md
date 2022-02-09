@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/-Oracle-green"/>&nbsp;
   <img src="https://img.shields.io/badge/-Redux-pink"/>&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-green"/>&nbsp;<img src="https://img.shields.io/badge/-Git-black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-orange"/>&nbsp;
 </p>
 <br>
-<h4 align="center">🌱 I’m currently learning ...<h4/>
-  <p align="center"><img src="https://img.shields.io/badge/-TypeScript-orange"/> </p>
+
   <br>
   
   
