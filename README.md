@@ -5,11 +5,10 @@
 <h3 align="center">🛠Techs that I can handle🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Reactjs-red"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript(ES6)-red"/>&nbsp;
-<img src="https://img.shields.io/badge/-Java-green"/>&nbsp;
-<img src="https://img.shields.io/badge/-Spring-green"/>&nbsp;
-<img src="https://img.shields.io/badge/-Oracle-green"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Redux-pink"/>&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-green"/>&nbsp;<img src="https://img.shields.io/badge/-Git-black"/>
+<img src="https://img.shields.io/badge/-NextJs-green"/>&nbsp;
+<img src="https://img.shields.io/badge/-Redux-pink"/>&nbsp;
+<img src="https://img.shields.io/badge/-ReactQuery-pink"/>&nbsp;
+  <img src="https://img.shields.io/badge/-ReduxToolKit-pink"/>&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-orange"/>&nbsp;
 </p>
 <br>
@@ -21,12 +20,11 @@
    let seoulsaram = {
         name : 'seoulsaram',
         state : '🌟happy🌟',
-        address : 'https://seoulsaram.github.io/portfolio/'
     }
   ```
   
 
-  <a align="center" href="https://seoulsaram.github.io/portfolio/">go to seoulsaram site</a>
+<!--   <a align="center" href="https://seoulsaram.github.io/portfolio/">go to seoulsaram site</a> -->
   
   <p align="center">📞Contact Me</p>
   <p align="center">
