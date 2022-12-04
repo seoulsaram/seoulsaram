@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/-ReactQuery-pink"/>&nbsp;
   <img src="https://img.shields.io/badge/-ReduxToolKit-pink"/>&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-orange"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Storybook-blue"/>&nbsp;
 </p>
 <br>
 
