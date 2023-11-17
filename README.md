@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-orange"/>&nbsp;<br/>
   <img src="https://img.shields.io/badge/-Storybook-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/NodeJs-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express-orange"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express-olive"/>&nbsp;
 </p>
 <br/>
 
