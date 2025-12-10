@@ -16,8 +16,6 @@
 </p>
 <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsaram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
   
 <!--   <a align="center" href="https://seoulsaram.github.io/portfolio/">go to seoulsaram site</a> -->
   
@@ -30,6 +28,3 @@
         state : '🌟happy🌟',
     }
   ```
-
-
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738seoulsaram"/></a>
