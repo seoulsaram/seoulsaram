@@ -4,17 +4,23 @@
 
 ### Techs that I can handle
 <p>
+<img src="https://img.shields.io/badge/-NextJs-black"/>&nbsp;
+<img src="https://img.shields.io/badge/-TailwindCSS-black"/>&nbsp; 
 <img src="https://img.shields.io/badge/-Reactjs-red"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript(ES6)-red"/>&nbsp; <br/>
-<img src="https://img.shields.io/badge/-NextJs-green"/>&nbsp; <br/>
-<img src="https://img.shields.io/badge/-Redux-pink"/>&nbsp; 
+  <img src="https://img.shields.io/badge/-Zustand-purple"/>&nbsp; 
 <img src="https://img.shields.io/badge/-ReactQuery-pink"/>&nbsp; 
-  <img src="https://img.shields.io/badge/-ReduxToolKit-pink"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5Canvas-green"/>&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-orange"/>&nbsp;<br/>
   <img src="https://img.shields.io/badge/-Storybook-blue"/>&nbsp;
   <img src="https://img.shields.io/badge/NodeJs-yellow"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express-olive"/>&nbsp;
+  <img src="https://img.shields.io/badge/Sentry-purple"/>&nbsp;
+  <img src="https://img.shields.io/badge/WebOSSDK-babypink"/>&nbsp;
+  <img src="https://img.shields.io/badge/RESTfullWebService-black"/>&nbsp;
 </p>
 <br/>
+
+⬇️ ⬇️ ⬇️<br/>
+https://seoulsaram.github.io/portfolio/
 
   
 <!--   <a align="center" href="https://seoulsaram.github.io/portfolio/">go to seoulsaram site</a> -->
@@ -25,6 +31,7 @@
   ```javascript
    let seoulsaram = {
         name : 'seoulsaram',
-        state : '🌟happy🌟',
+        state : '🌟happy😊',
+        home : 'https://seoulsaram.github.io/portfolio'
     }
   ```
